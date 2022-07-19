@@ -1,0 +1,8 @@
+class Hello
+{
+
+psvm(String aa[]){
+
+SoP("Hello Java");
+}
+}
